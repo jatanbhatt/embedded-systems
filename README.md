@@ -1,4 +1,4 @@
-# embedded-system
+# embedded-systems
 All labs are working with an ARM Cortex microcontroller (STM32L476Discovery), programmed in Embedded C.
 
 Lab 1:  Required us to flash an onboard LED at a certain frequency.
